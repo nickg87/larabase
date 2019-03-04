@@ -87,6 +87,7 @@
                         </li>
                     </ul>
                 </nav>
+                {{--
                 <div class="socials-a">
                     <ul class="list-inline">
                         <li class="list-inline-item">
@@ -116,6 +117,7 @@
                         </li>
                     </ul>
                 </div>
+                --}}
                 <div class="copyright-footer">
                     <p class="copyright color-text-a">
                         &copy; Copyright 2019
