@@ -87,7 +87,6 @@
                         </li>
                     </ul>
                 </nav>
-                {{--
                 <div class="socials-a">
                     <ul class="list-inline">
                         <li class="list-inline-item">
@@ -117,13 +116,12 @@
                         </li>
                     </ul>
                 </div>
-                --}}
                 <div class="copyright-footer">
                     <p class="copyright color-text-a">
                         &copy; Copyright 2019
                         <span class="color-a">{{$settings->name}}</span> All Rights Reserved.
                     </p>
-                </div>
+                </div>gu
                 <div class="credits">
                     Theme by <a href="https://bootstrapmade.com/">BootstrapMade</a>
                 </div>
