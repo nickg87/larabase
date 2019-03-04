@@ -1,0 +1,2 @@
+# larabase
+Larabase starter kit
