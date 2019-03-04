@@ -13,7 +13,9 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
     <!-- Bootstrap CSS File -->
-    <link href="/frontend/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    {{--<link href="/frontend/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">--}}
+    <link href="/css/app.css" rel="stylesheet">
+
     <!-- Libraries CSS Files -->
     <link href="/frontend/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="/frontend/lib/animate/animate.min.css" rel="stylesheet">
