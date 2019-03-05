@@ -2,7 +2,7 @@
 <aside class="menu-sidebar d-none d-lg-block">
     <div class="logo">
         <a href="{{route('admin.')}}">
-            <img src="{{ asset('images/icon/logo.png')}}" alt="LaraBase Admin" />
+            <img src="{{ asset('backend/images/icon/logo.png')}}" alt="LaraBase Admin" />
         </a>
     </div>
     <div class="menu-sidebar__content js-scrollbar1">

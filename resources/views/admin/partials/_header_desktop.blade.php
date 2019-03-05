@@ -19,7 +19,7 @@
                 <div class="header-button">
                     <div class="noti-wrap">
                         <div class="noti__item js-item-menu">
-                            <img height="24" src="{!! asset('images/icon/flag-'.app()->getLocale().'.png') !!}" alt="English" />
+                            <img height="24" src="{!! asset('backend/images/icon/flag-'.app()->getLocale().'.png') !!}" alt="English" />
                             <div class="lang-dropdown js-dropdown">
                                 <div class="lang__title">
                                     <p>@lang('change_language')</p>
@@ -27,10 +27,10 @@
                                 @foreach (config('app.locales') as $alpha2=>$lang)
                                     <div class="lang__item">
                                         <div class="image img-32">
-                                            <img src="{{asset('images/icon/flag-'.$alpha2.'.png')}}" alt="<?=$lang?>" />
+                                            <img src="{{asset('backend/images/icon/flag-'.$alpha2.'.png')}}" alt="<?=$lang?>" />
                                         </div>
                                         <div class="content">
-                                            <p><a href="{{url('/language/'.$alpha2)}}"><?=$lang?></a></p>
+                                            <p><a href="{{url('backend//language/'.$alpha2)}}"><?=$lang?></a></p>
                                         </div>
                                     </div>
                                 @endforeach
